@@ -4,6 +4,8 @@ Enigma Racing MyStable shares management
 
 ## EN:
 
+Development year: **April 2020**.
+
 This is a project developed with the objective of keeping updated the horse shares of the subscribed members of [Enigma Racing](https://www.enigmaracing.net/), which came from a workbook generated in Excel that is used for it.
 
 The main objective was to be able to update all this information by importing the workbook used without requiring any additional action by the administrator, thus keeping the database of the shares of all members updated every time it was required in a short time.
