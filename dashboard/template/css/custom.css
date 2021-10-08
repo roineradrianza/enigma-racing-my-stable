@@ -1,0 +1,64 @@
+.dt-print-view h1{
+	text-align: center !important;
+}.dt-print-view .dt-body-center{
+	text-align: center !important;
+}
+.text-center.navbar-brand-wrapper.d-flex.align-items-center.justify-content-center{
+	background: #fff !important;
+}
+.main-panel{
+	margin-top: 8vh;
+	width: auto !important
+}
+.navbar .navbar-menu-wrapper{
+	width: 100% !important;
+}
+.navbar .navbar-brand-wrapper .navbar-brand img{
+	width: 60% !important;
+	height: auto !important;
+}
+#loginContainer,#registerContainer{
+	background: #ffffff !important;
+}
+.auth-form-btn{
+	font-size: 1.2em !important;
+	text-transform: uppercase;
+	border: none;
+}
+.btn.btn-danger,.btn.btn-danger:hover, 
+.btn.btn-primary,.btn.btn-primary:hover,
+.btn.btn-success,.btn.btn-success:hover{
+	box-shadow: none;
+}
+.auth .login-half-bg{
+	background-repeat: no-repeat !important;
+	background-size: 100% !important;
+	background-position: center; 
+	background-color: white;
+}
+.auth .register-half-bg{
+	background-repeat: no-repeat !important;
+	background-color: white;
+	background-position: center;
+}
+#remember{
+	margin: -1px -1px -5px -1px;
+}
+label[for="remember"] p{
+	margin-top: -3px
+}
+h6{
+	line-height: 1.5;
+}
+#btnRestorePassword{
+	width: 100%
+}
+@media (max-width: 576px) {
+
+	.content-wrapper,.card .card-body, .card{
+		padding: 0rem 0rem;
+	}
+	.auth .brand-logo img{
+		width: 60%;
+	}
+}

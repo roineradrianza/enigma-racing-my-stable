@@ -1,0 +1,5 @@
+.btn.btn-danger,.btn.btn-danger:hover, 
+.btn.btn-primary,.btn.btn-primary:hover,
+.btn.btn-success,.btn.btn-success:hover{
+	box-shadow: none !important;
+}
